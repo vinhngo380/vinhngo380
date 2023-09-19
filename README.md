@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, this is Vinh Ngo. I am a student currently studying Computer Science at Penn State University!
 
 <!--
 **vinhngo380/vinhngo380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
