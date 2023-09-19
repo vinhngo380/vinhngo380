@@ -1,4 +1,13 @@
-### Hi, this is Vinh Ngo. I am a student currently studying Computer Science at Penn State University!
+### Hi, this is Vinh Ngo.
+
+I am a student currently studying Computer Science at Penn State University! 
+
+🔭I want to work on many projects, but currently I am working on an automatic file mover. 
+Eventually, I want to learn to use APIs, front-end/web developement, games, etc, in some real world cases so I hope that you see those soon!
+
+📫You can reach me on my LinkedIn:
+linkedin.com/in/vinh-ngo380
+
 
 <!--
 **vinhngo380/vinhngo380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
