@@ -2,7 +2,7 @@
 
 I am a student currently studying Computer Science at Penn State University! 
 
-🔭I want to work on many projects, but currently I am working on an automatic file mover. 
+🔭I want to work on many projects, but currently I am working on an automatic file mover, as well as an addon for the SRS Anki. 
 Eventually, I want to learn to use APIs, front-end/web developement, games, etc, in some real world cases so I hope that you see those soon!
 
 📫You can reach me on my LinkedIn:
