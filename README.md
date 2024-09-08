@@ -8,6 +8,9 @@ Eventually, I want to learn how to use APIs, front-end/web developement, games, 
 📫You can reach me on my LinkedIn:
 linkedin.com/in/vinh-ngo380
 
+School GitHub Account:
+https://github.com/vln5066
+
 
 <!--
 **vinhngo380/vinhngo380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
