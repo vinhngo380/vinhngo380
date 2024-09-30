@@ -6,7 +6,7 @@ I am a student currently studying Computer Science at Penn State University!
 Eventually, I want to learn how to use APIs, front-end/web developement, games, etc, in some real world cases so I hope that you see those soon!
 
 📫You can reach me on my LinkedIn:
-linkedin.com/in/vinh-ngo380
+<a ref="linkedin.com/in/vinh-ngo380"></a>
 
 School GitHub Account:
 https://github.com/vln5066
