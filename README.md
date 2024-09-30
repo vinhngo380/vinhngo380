@@ -9,7 +9,7 @@ Other things I've worked on/some of my hobbies is learning Japanese! I'm working
 
 📫You can reach me on my <a href="https://www.linkedin.com/in/vinh-ngo380/">LinkedIn</a>
 
-<a href="[github.com/vln5066](https://github.com/vln5066)">School GitHub Account</a>
+<a href="https://github.com/vln5066">School GitHub Account</a>
 
 
 <!--
