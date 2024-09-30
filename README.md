@@ -2,8 +2,10 @@
 
 I am a student currently studying Computer Science at Penn State University! 
 
-🔭I want to work on many projects, but currently I am working on an automatic file mover, as well as an addon for the SRS Anki. 
-Eventually, I want to learn how to use APIs, front-end/web developement, games, etc, in some real world cases so I hope that you see those soon!
+I'm interested in embedded systems and systems programming, currently in Penn State's Advanced Vehicle Team (AVT)
+This page will be uploading projects related to embedded and systems programming that I'll be doing in my freetime (eg; my c-collection repo)
+
+Other things I've worked on/some of my hobbies is learning Japanese! I'm working on making an addon to display statistics
 
 📫You can reach me on my <a href="https://www.linkedin.com/in/vinh-ngo380/">LinkedIn</a>
 
