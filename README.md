@@ -5,7 +5,9 @@ I am a student currently studying Computer Science at Penn State University!
 I'm interested in embedded systems and systems programming, currently in Penn State's Advanced Vehicle Team (AVT). <br>
 This page will be uploading projects related to embedded and systems programming that I'll be doing in my freetime (eg; my c-collection repo)
 
-Other things I've worked on/some of my hobbies is learning Japanese! I'm working on making an addon to display statistics within Anki. (whenver I can find the time that is!)
+I also try to work on smaller things, like making an addon to display statistics within Anki. (whenver I can find the time that is...)
+
+Some of my hobbies is learning Japanese (永遠に日本語上手）and playing video games! <br>
 
 📫You can reach me on my <a href="https://www.linkedin.com/in/vinh-ngo380/">LinkedIn</a>
 
